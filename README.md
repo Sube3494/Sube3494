@@ -8,6 +8,15 @@
 </p>
 
 <p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://github.com/Sube3494"><img src="https://img.shields.io/badge/GitHub-Sube3494-yellow?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://www.sube.top"><img src="https://img.shields.io/badge/Blog-Sube3494-yellow?logo=1Panel" alt="" title="halo" /></a>
+    <a href="https://t.me/Sube3494"><img src="https://img.shields.io/badge/Telegram-Sube3494-yellow?logo=telegram" alt="Telegram" title="Telegram" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/Sube3494"><img src="https://komarev.com/ghpvc/?username=Sube3494&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+
+<p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Sube3494&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -20,12 +29,24 @@
 </p>
 
 
+<!-- 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sube3494&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sube3494&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p>
-
+ -->
+ 
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Sube3494&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+</p>
+
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,java,html,css,js,mysql,md,latex,mermaid,matlab,ps,pr,docker&titles=true" alt="Skill Icons" title="Skill Icons">
+</p>
+
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=See%20you%20next%20time%!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
