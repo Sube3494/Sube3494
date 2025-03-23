@@ -23,3 +23,9 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sube3494&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
+
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Sube3494&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+</p>
