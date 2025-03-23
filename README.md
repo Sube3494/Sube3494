@@ -10,7 +10,8 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/Sube3494"><img src="https://img.shields.io/badge/GitHub-Sube3494-yellow?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://www.sube.top"><img src="https://img.shields.io/badge/Blog-Sube3494-yellow?logo=1Panel" alt="" title="halo" /></a>
+    <a href="https://www.sube.top"><img src="https://img.shields.io/badge/Blog-Sube-yellow?logo=1Panel" alt="" title="halo" /></a>
+    <a href="https://sube.top"><img src="https://img.shields.io/badge/StudyNote-Sube-yellow?logo=vitepress" alt="" title="Study Note" /></a>
     <a href="https://t.me/Sube3494"><img src="https://img.shields.io/badge/Telegram-Sube3494-yellow?logo=telegram" alt="Telegram" title="Telegram" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/Sube3494"><img src="https://komarev.com/ghpvc/?username=Sube3494&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
