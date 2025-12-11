@@ -19,7 +19,7 @@
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="480" src="https://github-readme-stats.vercel.app/api?username=Sube3494&theme=dracula&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="480" src="https://github-readme-stats-six-tau-57.vercel.app/api?username=Sube3494&theme=dracula&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="" src="https://github-readme-streak-stats-dusky-eta.vercel.app?user=Sube3494&theme=dracula&hide_border=true&card_width=220&card_height=200&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
