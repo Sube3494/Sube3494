@@ -19,17 +19,16 @@
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="480" src="https://github-readme-stats-six-tau-57.vercel.app/api?username=Sube3494&theme=dracula&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="480" src="https://github-readme-stats-five-puce-88.vercel.app/api?username=Sube3494&theme=dracula&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="" src="https://github-readme-streak-stats-dusky-eta.vercel.app?user=Sube3494&theme=dracula&hide_border=true&card_width=220&card_height=200&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+<img align="center" width="" src="https://github-readme-stats-five-puce-88.vercel.app/api?username=Sube3494&theme=dracula&hide_border=true&card_width=220&card_height=200&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
 
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sube3494&theme=dracula&hide_border=true&area=true&custom_title=Activity%20Graph&bg_color=00000000" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph-git-main-shusiqiangs-projects.vercel.app/graph?username=Sube3494&theme=dracula&hide_border=true&area=true&custom_title=Activity%20Graph&bg_color=00000000" alt="Activity Graph" title="Activity Graph" />
 </p>
-
 
 
 <!-- <p align="center">
@@ -40,7 +39,7 @@
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="1500" src="https://github-profile-trophy-blue.vercel.app/?username=Sube3494&theme=dracula&rank=-?&no-frame=true&no-bg=true&column=-1" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="1500" src="https://github-trophies.vercel.app/?username=Sube3494&theme=dracula&rank=-?&no-frame=true&no-bg=true&column=-1" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 
 <p align="center">
